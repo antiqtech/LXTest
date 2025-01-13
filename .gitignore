@@ -1,2 +1,12 @@
 **/bin/Debug/
 **/bin/Release/
+/HackerNewsFetcher/obj/project.nuget.cache
+/HackerNewsFetcher/obj/project.assets.json
+/HackerNewsFetcher/obj/HackerNewsFetcher.csproj.nuget.g.targets
+/HackerNewsFetcher/obj/HackerNewsFetcher.csproj.nuget.g.props
+/HackerNewsFetcher/obj/HackerNewsFetcher.csproj.nuget.dgspec.json
+/HackerNewsFetcher/obj/Debug/net8.0/HackerNewsFetcher.AssemblyInfo.cs
+/HackerNewsFetcher/obj/Debug/net8.0/HackerNewsFetcher.AssemblyInfoInputs.cache
+/HackerNewsFetcher/obj/Debug/net8.0/HackerNewsFetcher.assets.cache
+/HackerNewsFetcher/obj/Debug/net8.0/HackerNewsFetcher.csproj.AssemblyReference.cache
+/HackerNewsFetcher/obj/Debug/net8.0/HackerNewsFetcher.GeneratedMSBuildEditorConfig.editorconfig
