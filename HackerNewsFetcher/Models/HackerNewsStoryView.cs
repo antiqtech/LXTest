@@ -13,8 +13,8 @@ namespace HackerNewsFetcher.Models
         public HackerNewsStoryView(HackerNewsStorySource sourceStory) 
         {
             Title = sourceStory.Title;
-            Uri = sourceStory.Title;
-            PostedBy = sourceStory.Title;
+            Uri = sourceStory.Uri;
+            PostedBy = sourceStory.PostedBy;
             Time = DateTime.UnixEpoch.AddSeconds(sourceStory.Time).ToString("yyyy-MM-ddTHH:mm:ss+00:00") ;
             Score = sourceStory.Score;
             CommentCount = sourceStory.Descendants;
